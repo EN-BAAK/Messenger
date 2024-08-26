@@ -1,0 +1,9 @@
+1) npm install express cors body-parser mongoose multer nodemon passport passport-local
+2) npm install jsonwebtoken
+3) npm install dotenv
+4) npm install express-validator
+5) npm install bcryptjs
+
+
+baaelahmedabokhabsa
+00CvtGZQB8CTK0oc

@@ -1,0 +1,1 @@
+export const MAIN_API_APP = "https://messenger-app-8m7j.onrender.com";
